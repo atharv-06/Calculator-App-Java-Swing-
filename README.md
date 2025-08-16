@@ -19,7 +19,7 @@ Can be extended into a scientific calculator with more functionalities
 **🚀 How to Run**
 Clone the repository:
 
-git clone https://github.com/your-username/calculator-app.git
+git clone https://github.com/atharv-06/calculator-app.git
 
 
 Open the project in any Java IDE (Eclipse, IntelliJ, NetBeans, etc.)
