@@ -1,33 +1,22 @@
-**A simple Calculator Application built using Java Swing.
-**
+**A simple Calculator Application built using Java Swing.**
 This project is designed for beginners to understand how to build a basic GUI application in Java.
 
-**✨ Features
-**
+**✨ Features**
 User-friendly Swing-based GUI
-
 Supports basic arithmetic operations: ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
-
 Clear and Reset functionality
-
 Error handling for invalid inputs
-
 Lightweight and easy-to-run
 
-**🛠️ Tech Stack
-**
+**🛠️ Tech Stack**
 Language: Java
-
 GUI Framework: Swing
 
-**🎯 Use Case
-**
+**🎯 Use Case**
 Ideal for novices learning Java Swing GUI development
-
 Can be extended into a scientific calculator with more functionalities
 
-**🚀 How to Run
-**
+**🚀 How to Run**
 Clone the repository:
 
 git clone https://github.com/your-username/calculator-app.git
